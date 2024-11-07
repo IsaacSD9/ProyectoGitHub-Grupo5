@@ -15,7 +15,6 @@ Esta pratica tiene como fin poder aplicar Git a nuestros proyectos, practicaremo
 - **Uso de Cherry Pick**<br>
 - **Creación de Pull-Request**<br>
 - **Listado y borrado de Ramas**<br>
-- **Conclusiones**
 ---
 
 1. **Creación de una rama** <br>
